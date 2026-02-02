@@ -18,6 +18,18 @@ This repo is intended as a **learning and practice archive**, not as a portfolio
 - Understanding the Excel window, ribbons, sheets, and basic navigation
 - Basic data entry and file handling
 
+### Excel Calculations
+- Writing and editing basic formulas
+- Using core functions
+- Absolute vs relative cell references
+- Calculations across multiple worksheets
+
+### Excel Formatting Essentials
+- Cell and text formatting
+- Borders, alignment tools, and Format Painter
+- Number formats (currency, percentage, decimals)
+- Styles and themes for consistent design
+
 ---
 
 ## Tools Used
