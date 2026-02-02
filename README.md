@@ -30,6 +30,18 @@ This repo is intended as a **learning and practice archive**, not as a portfolio
 - Number formats (currency, percentage, decimals)
 - Styles and themes for consistent design
 
+### Excel Data Management
+- Managing rows and columns
+- Find and replace operations
+- Sorting and filtering data
+- Applying conditional formatting
+
+### Printing Excel Spreadsheets
+- Print preview and PDF setup
+- Page orientation, margins, and scaling
+- Page breaks and print titles
+- Headers and footers
+
 ---
 
 ## Tools Used
