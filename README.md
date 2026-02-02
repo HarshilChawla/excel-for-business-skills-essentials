@@ -42,6 +42,12 @@ This repo is intended as a **learning and practice archive**, not as a portfolio
 - Page breaks and print titles
 - Headers and footers
 
+### Excel Charts 
+- Creating basic chart types (pie, column, line)
+- Moving and resizing charts
+- Changing chart styles and chart types
+- Modifying chart elements (titles, legends, labels)
+  
 ---
 
 ## Tools Used
