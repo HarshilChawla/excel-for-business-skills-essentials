@@ -1,6 +1,6 @@
-# Excel for Business Skills: Essentials
+# Excel Skills for Business: Essentials
 
-This repository contains my practice work from the **Excel for Business Skills: Essentials** course (part of the Excel for Business Skills Specialization by Macquarie University on Coursera).
+This repository contains my practice work from the **Excel Skills for Business: Essentials** course (part of the Excel Skills for Business Specialization by Macquarie University on Coursera).
 
 The purpose of this repository is to:
 - Practice Excel fundamentals hands-on
